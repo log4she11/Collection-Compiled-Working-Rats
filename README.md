@@ -2,8 +2,8 @@
 All Rats are compiled and tested. They work great.
 <h2> Password = graysuit-github</h2>
 <h2>What included?</h2>
-<li><a href="https://github.com/AliBawazeEer/RAT-NjRat-0.7d-modded-source-code/releases">NjRAT 0.7D Modded</a></li>
-<ol><li><a href="https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp/releases">AsyncRAT v0.5.6A</a></li>
+<ol><li><a href="https://github.com/AliBawazeEer/RAT-NjRat-0.7d-modded-source-code/releases">NjRAT 0.7D Modded</a></li>
+<li><a href="https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp/releases">AsyncRAT v0.5.6A</a></li>
 <li><a href="https://github.com/NYAN-x-CAT/Lime-RAT/releases">LimeRAT v0.1.9.2 (Archived)</a></li>
 <li><a href="https://github.com/DannyTheSloth/VanillaRAT/releases">Vanilla Rat V1.7 (FINAL UPDATE)</a></li>
 <li><a href="https://github.com/quasar/QuasarRAT/releases">Quasar RAT v1.3.0.0</a></li></ol>
